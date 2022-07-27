@@ -14,3 +14,31 @@ Hölmö tehtävähän tuo lopputyöksi on mutta tosiaan halusin oppia perusteet 
 
 Nuo tekstifilekset on ihan vaan jotta voi sanoa että kyllä sitäkin siinä tehtiin.
 No aika väkisin pitää tommoseen tehtävään pistää käyttöliittymää tai tiedostoa. No olishan sitä tietty voinu printtaa tiedostoon ne kaikki satunnaisluvut..
+
+### AI NIIN!!!
+
+tehtävähän oli tämän näköinen:
+
+1. Create a new console app.
+
+2. Declare a class 'RandomNumberGenerator'. In class, specify *enum* of task type as *LIGHT* or *HEAVY*.
+
+    - If RandomNumberGenerator is *LIGHT*, it will generate 100 random numbers.
+    
+    - If RandomNumberGenerator is *HEAVY*, it will generate 10 000 000 random numbers.
+    
+3. Allocate 100 RandomNumberGenerators and set the task type to *LIGHT* or *HEAVY* randomly.
+
+4. Run the allocated RandomNumberGenerators as async tasks.
+
+    - If generator is *LIGHT*, use deferred launching.
+    
+    - If generator is *HEAVY*, use async launching.
+    
+5. Measure how long it takes to complete all generators.
+
+6. Modify your code to run all tasks with async launching.
+
+7. Measure how long it takes to complete all generators.
+
+8. Add comments into the source code of your findings. Which way is faster? Why?
