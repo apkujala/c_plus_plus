@@ -7,3 +7,7 @@ Toki tommosessa tehtävässä tuo rand() toimii hölmösti koska se pitäs heitt
 Yleensä sitä ei suositella mutta concurrent kurssin alussa tuli selväksi että randomi on tuossa oma perehtymisen kohde.
 
 Hölmö tehtävähän tuo lopputyöksi on mutta tosiaan halusin oppia perusteet jotta saan tuon tehtyä.
+
+
+Nuo tekstifilekset on ihan vaan jotta voi sanoa että kyllä sitäkin siinä tehtiin.
+No aika väkisin pitää tommoseen tehtävään pistää käyttöliittymää tai tiedostoa. No olishan sitä tietty voinu printtaa tiedostoon ne kaikki satunnaisluvut..
